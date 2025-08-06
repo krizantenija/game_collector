@@ -32,7 +32,13 @@ Just run the script in powershell on a Windows (7-10-11) PC machine.
 
 
 ## Screenshoots
+Source folder:
+![folders](https://github.com/krizantenija/game_collector/blob/main/shoot3.png)
+
+Processing:
 ![running](https://github.com/krizantenija/game_collector/blob/main/shoot2.png)
+
+Result:
 ![html](https://github.com/krizantenija/game_collector/blob/main/shoot1.jpg)
 
 ## License
