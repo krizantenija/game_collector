@@ -5,7 +5,8 @@ Creates a single HTML catalog file from your game collection.
     
 ## Features
 
-- Can browse, search through offline files
+- The collector running fully offline. No additional software, installation needed.
+- Can browse, search through offline files (deatached drives) with any browser
 - Sort games by title/data/size/release date (asc/desc)
 - Filter games by it's main folder (categories)
 - Create gamecards (in GOG style), saving the jpg header. Show/hide cover option.
