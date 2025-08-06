@@ -8,13 +8,13 @@ Creates a single HTML catalog file from your game collection.
 - The collector running fully offline. No additional software, installation needed.
 - Can browse, search through offline files (deatached drives) with any browser
 - Responsible, adjustable, styleable HTML result file
-- Sort games by title/data/size/release date/added date (asc/desc)
+- Sort games by * *title/data/size/release date/added date* * (asc/desc order)
 - Filter games by it's main folder (categories)
 - Create gamecards (in GOG style) with badges (category, istall type). Display header images (if available). Show/hide cover option.
 - Summarize total game collection size, total game count
 - Able to open the games local folder, to view files, start the installation process (within browser)
 - Exclude folders list
-- Separate 'meta' scraper from a link file to gather game informations like (developer, publisher, original title, release date, screenshoots). Can be GOG, or IGDB urls.
+- Separate 'meta' scraper from a link file to gather game informations like (* *developer, publisher, original title, release date, screenshoots* *). Can be GOG, or IGDB urls.
 - With the extra 'meta' files, storelink, youtube video, lightbox gallery for screenshoots also available
 
 ## Installation
