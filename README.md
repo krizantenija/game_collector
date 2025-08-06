@@ -25,7 +25,7 @@ Just run the script in powershell on a Windows (7-10-11) PC machine.
 ## Usage
 
 - Within the generator script (ps1), You can change the parameters on the top of the file (edit with notepad). Like: Games root drive, path, title, excludes...
-- The 'Meta' generator looking for [GOGDB.org](https://gogdb.org), or [IGDB](https://www.igdb.com) link for the active game. You can drag&drop these files from the browser to the game dir.
+- The 'Meta' generator looking for [GOGDB.org](https://gogdb.org), or [IGDB.com](https://www.igdb.com) link for the active game. You can drag&drop these files from the browser to the game dir.
 - You need to manually save the game header/cover images
 - The folder structure for the game collection should be this kind:
 -- Games/DOSgames/Doom2/
