@@ -29,6 +29,10 @@ Just run the script in powershell on a Windows (7-10-11) PC machine.
 -- Games/DOSgames/Doom2/
 
 
+## Screenshoots
+![html](https://github.com/krizantenija/game_collector/blob/main/shoot1.jpg)
+
+
 ## License
 
 [CC 4.0](https://creativecommons.org/licenses/by/4.0/)
