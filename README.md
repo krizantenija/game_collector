@@ -10,7 +10,7 @@ Creates a single HTML catalog file from your game collection.
 - Responsible, adjustable, styleable HTML result file
 - Sort games by title/data/size/release date (asc/desc)
 - Filter games by it's main folder (categories)
-- Create gamecards (in GOG style), saving the jpg header. Show/hide cover option.
+- Create gamecards (in GOG style) with badges (category, istall type). Display header images (if available). Show/hide cover option.
 - Summarize total game collection size, total game count
 - Able to open the games local folder, to view files, start the installation process (within browser)
 - Exclude folders list
