@@ -30,8 +30,8 @@ Just run the script in powershell on a Windows (7-10-11) PC machine.
 
 
 ## Screenshoots
+![running](https://github.com/krizantenija/game_collector/blob/main/shoot2.png)
 ![html](https://github.com/krizantenija/game_collector/blob/main/shoot1.jpg)
-
 
 ## License
 
